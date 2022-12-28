@@ -66,7 +66,7 @@
 <p align="center">
 <a href="http://www.shubhamg.me"><img src="https://img.shields.io/badge/-shubhamg.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shubham-gupta-664332171/"><img src="https://img.shields.io/badge/-Shubham%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shubhamgvupta2048@gmail.com"><img src="https://img.shields.io/badge/-shubhamgupta2048@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:shubhamgupta2048@gmail.com"><img src="https://img.shields.io/badge/-shubhamgupta2048@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/__shubham.gupta__"><img src="https://img.shields.io/badge/-@__shubham.gupta__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
