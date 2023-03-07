@@ -53,6 +53,40 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
+### ⚙️ &nbsp; My Projects
+
+Welcome to my project showcase! Here are some of the projects I've worked on:
+
+### Data Science
+
+<div>
+  
+| Project |
+|---------|
+| [Faulty Sensor Detection](https://github.com/ShubhamGupta19/Faulty-Sensor-Detection) |
+| [Finance Complaint Detection](https://github.com/ShubhamGupta19/Finance-Complaint-Detection) |
+| [Movie Recommender System](https://github.com/ShubhamGupta19/Movie-Recommender-System) |
+| [Fake News Detection](https://github.com/ShubhamGupta19/Finance-Complaint-Detection) |
+| [Realtime Shopping using Deep learning](https://github.com/ShubhamGupta19/Image-Search-Engine-using-Flask) | 
+| [Plant Species Detection](https://github.com/ShubhamGupta19/Plant_species_detection) |
+</div>
+
+### Full Stack Development
+
+<div>
+
+| Project |
+|---------|
+| [Faculty Staff Directory](https://github.com/myusername/project4) |
+| [Flutter Chat App](https://github.com/ShubhamGupta19/Flutter-Simple-Chat-App) |
+| [Blood Donation App](https://github.com/ShubhamGupta19/blood_donation_App_using_Flutter)|
+| [Authentication using flask](https://github.com/ShubhamGupta19/Authentication-using-Flask-and-MongoDB) |
+| [Retail Analysis Flask App](https://github.com/ShubhamGupta19/Retail-Analysis-Flask-App) |
+
+</div>
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -70,3 +104,6 @@
 <a href="https://instagram.com/__shubham.gupta__"><img src="https://img.shields.io/badge/-@__shubham.gupta__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
+
+
+
