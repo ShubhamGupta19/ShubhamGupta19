@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🧑‍💼 &nbsp;Actively looking for Fulltime opportunities in Data Science and Fullstack development.\
-🎓 &nbsp;Pursuing a master's degree in Computer Science at the University of Cincinnati.\
+🧑‍💼 &nbsp;Actively looking for Fulltime opportunities in Data Science/Analysis and Fullstack development.\
+🎓 &nbsp;Pursued a master's degree in Computer Science with a specialization in data Science at the University of Cincinnati.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Cloud Technologies.\
 💬 &nbsp;Feel free to reach out to me for freelancing and volunteering.\
 ✉️ &nbsp;You can shoot me an email at shubhamgupta2048@gmail.com! I'll try to respond as soon as I can.\
@@ -71,6 +71,18 @@ Welcome to my project showcase! Here are some of the projects I've worked on:
 | [Fake News Detection](https://github.com/ShubhamGupta19/Finance-Complaint-Detection) |
 | [Realtime Shopping using Deep learning](https://github.com/ShubhamGupta19/Image-Search-Engine-using-Flask) | 
 | [Plant Species Detection](https://github.com/ShubhamGupta19/Plant_species_detection) |
+</div>
+
+### Data Engineering
+
+<div>
+  
+| Project |
+|---------|
+| [ETL-SQS-to-Postgres-Fetch](https://github.com/ShubhamGupta19/ETL-SQS-to-Postgres-Fetch) |
+| [Realtime-Stock-market-Analysis-using-Kafka](https://github.com/ShubhamGupta19/Realtime-Stock-market-Analysis-using-Kafka) |
+| [Taxi-Data-Analytics-ETL-pipeline](https://github.com/ShubhamGupta19/Taxi-Data-Analytics-ETL-pipeline) |
+
 </div>
 
 ### Full Stack Development
