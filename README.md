@@ -6,10 +6,10 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🧑‍💼 &nbsp;Actively looking for Fulltime opportunities in Data Engineering/Science/Analysis and Fullstack development.\
 🎓 &nbsp;Pursued a master's degree in Computer Science with a specialization in data Science at the University of Cincinnati.\
-🌱 &nbsp;I'm on track for learning more about Data Engineering, Artificial Intelligence, Data Science and Cloud Technologies.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Engineering, Artificial Intelligence, Data Science and Cloud Technologies.\
 💬 &nbsp;Feel free to reach out to me for freelancing and volunteering.\
 ✉️ &nbsp;You can shoot me an email at shubhamgupta2048@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé] for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](http://shubhamg.me/#resume) for more details about me. I'm open to feedback and suggestions!
 
 
 
