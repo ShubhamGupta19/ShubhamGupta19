@@ -67,8 +67,8 @@ Welcome to my project showcase! Here are some of the projects I've worked on:
 |---------|
 | [Faulty Sensor Detection](https://github.com/ShubhamGupta19/Faulty-Sensor-Detection) |
 | [Finance Complaint Detection](https://github.com/ShubhamGupta19/Finance-Complaint-Detection) |
+| [Realtime Environment Monitoring](https://github.com/ShubhamGupta19/Real-Time-Environmental-Monitoring) |
 | [Movie Recommender System](https://github.com/ShubhamGupta19/Movie-Recommender-System) |
-| [Fake News Detection](https://github.com/ShubhamGupta19/Finance-Complaint-Detection) |
 | [Realtime Shopping using Deep learning](https://github.com/ShubhamGupta19/Image-Search-Engine-using-Flask) | 
 | [Plant Species Detection](https://github.com/ShubhamGupta19/Plant_species_detection) |
 </div>
